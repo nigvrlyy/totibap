@@ -4,17 +4,17 @@ body {
   background-image: url("starter-code/assets/home/background-home-desktop.jpg");
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 110vh;
 }
 
 nav {
   display: flex;
   align-items: center;
-  padding: 40px 0 0 60px;
+  padding: 42px 0 0 60px;
 }
 
 .logo {
-  width: 48px;
+  width: 50px;
   z-index: 2;
 }
 
@@ -27,7 +27,7 @@ nav {
 
 nav ul {
   display: flex;
-  gap: 45px;
+  gap: 46px;
   list-style: none;
   margin-left: auto;
   padding: 30px 120px;
@@ -62,7 +62,7 @@ button {
 }
 
 button:hover {
-  box-shadow: 0 0 0 40px rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 0 42px rgba(255, 255, 255, 0.1);
 }
 
 h1 {
@@ -89,13 +89,13 @@ main div p:first-child {
 
 main div p:last-child {
   color: #d0d6f9;
-  max-width: 450px;
+  max-width: 460px;
   line-height: 1.7;
 }
 
 nav ul {
   display: flex;
-  gap: 40px;
+  gap: 42px;
   list-style: none;
 }
 
@@ -106,7 +106,7 @@ nav li {
 
 nav li span {
   font-weight: bold;
-  margin-right: 8px;
+  margin-right: 10px;
 }
 
 nav li {
@@ -169,7 +169,7 @@ body.destination {
 }
 
 .destination-content img {
-  width: 400px;
+  width: 410px;
   max-width: 100%;
 }
 
@@ -178,7 +178,7 @@ body.destination {
 }
 
 .destination-main h2 {
-  margin-bottom: 40px;
+  margin-bottom: 42px;
   letter-spacing: 3px;
   font-size: 20px;
 }
@@ -251,7 +251,7 @@ body.destination {
 }
 
 .info p {
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 2px;
   color: #d0d6f9;
   margin-bottom: 10px;
@@ -375,7 +375,7 @@ body.technology {
 }
 
 .tech-img {
-  width: 360px;
+  width: 380px;
 }
 
 .tech-name {
